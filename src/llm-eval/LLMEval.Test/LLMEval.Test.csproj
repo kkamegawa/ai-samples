@@ -10,10 +10,10 @@
 
 
 	<ItemGroup>
-		<PackageReference Include="Csv" Version="2.0.93" />
-		<PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="9.0.0-preview.3.24172.9" />
-		<PackageReference Include="Microsoft.SemanticKernel" Version="1.9.0" />
-		<PackageReference Include="OpenTelemetry.Exporter.Console" Version="1.8.1" />
+		<PackageReference Include="Csv" Version="2.0.128" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="9.0.3" />
+		<PackageReference Include="Microsoft.SemanticKernel" Version="1.45.0" />
+		<PackageReference Include="OpenTelemetry.Exporter.Console" Version="1.11.2" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -406,3 +406,6 @@ FodyWeavers.xsd
 
 # Data
 **/src/chat/CustomerSupport/data/manual-chunks.json
+
+#vscode
+.vscode/
